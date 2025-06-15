@@ -41,8 +41,9 @@ Dodge enemies, shoot bullets, collect reloads, and survive!
 **Features:**
 - Player movement and shooting
 - Enemy and reload generation
-- Custom sprites and explosion animations
-- Health/reload logic
+- Score count
+- Collision logic
+- Gameover screen
 
 > 🎮 A fun way to learn game dev basics with object-oriented code.
 
