@@ -61,7 +61,7 @@ A simple calculator app built using Python's `tkinter` GUI library.
 
 ---
 
-## 📁 How to Run
+## 📁 How to Run this
 
 Clone the repository:
 
