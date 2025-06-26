@@ -2,7 +2,7 @@
 
 <p align="center">
   A collection of cool Python projects I've built while learning programming, AI, and game development.  
-  Projects include a voice assistant, a text converter, a Pygame space shooter, and a calculator with GUI!
+  Projects include a voice assistant, a text converter, a Pygame space shooter, a calculator with GUI, and face detection using OpenCV!
 </p>
 
 ---
@@ -58,6 +58,18 @@ A simple calculator app built using Python's `tkinter` GUI library.
 - Good use of layout and input validation
 
 > 🖥️ Great beginner GUI project for school or learning.
+
+---
+
+### 🧍 Face Detection (OpenCV)
+A face detection project using **OpenCV** where you can place an image in the `images/` folder, update the filename in the code, and run `main.py`. It detects faces with rectangles and saves the result in the `detected/` folder.
+
+**Features:**
+- Face detection using Haar Cascades
+- Easy to use: just replace image and run
+- Automatically saves output with rectangles drawn
+
+> 📸 Simple and powerful introduction to computer vision.
 
 ---
 
