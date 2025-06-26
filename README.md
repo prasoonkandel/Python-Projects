@@ -65,7 +65,7 @@ A simple calculator app built using Python's `tkinter` GUI library.
 A face detection project using **OpenCV** where you can place an image in the `images/` folder, update the filename in the code, and run `main.py`. It detects faces with rectangles and saves the result in the `detected/` folder.
 
 **Features:**
-- Face detection using Haar Cascades
+- Face detection using Open CV
 - Easy to use: just replace image and run
 - Automatically saves output with rectangles drawn
 
